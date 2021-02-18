@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ThatSoftwareDude, also known as Walter Guevara by humans.
+- 👀 I’m interested in web development as I've been doing it for 20 years, so I must be interested in it.
+- 🌱 I’m currently learning about whales and freedriving because that's cool too.
+- 📫 How to reach me ... well, the contact page on my blog is a good place to start https://www.thatsoftwaredude.com/contact
